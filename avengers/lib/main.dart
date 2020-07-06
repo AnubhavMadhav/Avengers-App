@@ -92,11 +92,11 @@ class _HomePageState extends State<HomePage> {
 //      body: Center(
 //        child: Text("Avengers by Anubhav Madhav"),
 //      ),
-      drawer: Drawer(),
-      floatingActionButton: FloatingActionButton(
-        onPressed: (){},
-        child: Icon(Icons.refresh),
-      ),
+//      drawer: Drawer(),
+//      floatingActionButton: FloatingActionButton(
+//        onPressed: (){},
+//        child: Icon(Icons.refresh),
+//      ),
     );
   }
 }
