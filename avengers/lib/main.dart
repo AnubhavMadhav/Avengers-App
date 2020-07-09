@@ -50,6 +50,12 @@ class _HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
+
+    var size = MediaQuery.of(context).size;
+
+    final double itemHeight = (size.height - kToolbarHeight - 240) / 2;
+    final double itemWidth = size.width / 2;
+
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
@@ -58,6 +64,7 @@ class _HomePageState extends State<HomePage> {
       ),
         body: avengersHub==null? Center(child: CircularProgressIndicator(),): GridView.count(
           crossAxisCount: 2,
+            childAspectRatio: (itemWidth / itemHeight),
           children: avengersHub.avengers.map((Avengers avenge) => Padding(
             padding: const EdgeInsets.all(2.0),
             child: InkWell(
