@@ -6,15 +6,15 @@ This application is developed using Flutter SDK and uses Dart Programming Langua
 ---
 >Home Page:
 ---
-![](images/a.jpeg)
+![](avengers/images/a.jpeg)
 ---
 > Avenger Details (Example 1)
 ---
-![](images/b.jpeg)
+![](avengers/images/b.jpeg)
 ---
 > Avenger Details (Example 2)
 ---
-![](images/c.jpeg)
+![](avengers/images/c.jpeg)
 ---
 
 ## This Application fetches data from a JSON API developed by me, feel free to use this JSON API in your projects, it'll be good if you give me some credits for that.
