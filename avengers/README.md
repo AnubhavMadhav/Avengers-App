@@ -1,16 +1,29 @@
-# avengers
+# Avengers App
+---
+This application is developed using Flutter SDK and uses Dart Programming Language.
+---
 
-A new Flutter application.
+---
+>Home Page:
+---
+![](images/a.jpeg)
+---
+> Avenger Details (Example 1)
+---
+![](images/b.jpeg)
+---
+> Avenger Details (Example 2)
+---
+![](images/c.jpeg)
+---
 
-## Getting Started
+## This Application fetches data from a JSON API developed by me, feel free to use this JSON API in your projects, it'll be good if you give me some credits for that.
+Link to JSON API Repository: [Avengers JSON API](https://github.com/AnubhavMadhav/Avengers-JSON-API)
 
-This project is a starting point for a Flutter application.
+Please ⭐ the Repository if you liked it.
 
-A few resources to get you started if this is your first Flutter project:
+Connect with me on LinkedIn: [Anubhav Madhav](https://www.linkedin.com/in/anubhav-madhav/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Thank You!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
